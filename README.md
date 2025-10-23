@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="100%" alt="exchangerateapi.net" />
+  <img src="header.svg" width="100%" alt="exchangerateapi.net" />
 </p>
 
 # exchangerateapi – official integrations hub

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="exchangerateapi.net header">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#3743b3"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#g)"/>
+
+  <!-- Wordmark -->
+  <g fill="#ffffff">
+    <text x="50%" y="48%" text-anchor="middle" font-size="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="0.5px">
+      exchangerateapi.net
+    </text>
+    <text x="50%" y="68%" text-anchor="middle" font-size="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif" opacity="0.9">
+      Open-source integrations & SDKs
+    </text>
+  </g>
+
+  <!-- Subtle grid accent -->
+  <g opacity="0.08" fill="#ffffff">
+    <rect x="100" y="80" width="2" height="200"/>
+    <rect x="300" y="60" width="2" height="220"/>
+    <rect x="500" y="70" width="2" height="210"/>
+    <rect x="700" y="90" width="2" height="190"/>
+    <rect x="900" y="65" width="2" height="215"/>
+  </g>
+</svg>
+
+
