@@ -22,6 +22,7 @@ A fast, reliable, and developer‑friendly currency API.
 - 🌩️ Meteor: https://github.com/exchangerateapinet/exchangerateapi-meteor
 - 🍎 Swift (CocoaPods): https://github.com/exchangerateapinet/exchangerateapi-cocoapods
 - 🎯 Dart: https://github.com/exchangerateapinet/exchangerateapi-dart
+- 🦀 Rust: https://github.com/exchangerateapinet/exchangerateapi-rust
 
 ## 📦 Packages
 
@@ -32,6 +33,7 @@ A fast, reliable, and developer‑friendly currency API.
 - pkg.go.dev: https://pkg.go.dev/github.com/exchangerateapinet/exchangerateapi-go
 - CocoaPods: https://cocoapods.org/pods/ExchangeRateAPINet
 - pub.dev: https://pub.dev/packages/exchangerateapi_dart
+- crates.io: https://crates.io/crates/exchangerateapi-rust
 - Atmosphere: https://atmospherejs.com/exchangerateapi/exchangerateapi
 
 ## 📰 Mentions & Articles
@@ -39,6 +41,10 @@ A fast, reliable, and developer‑friendly currency API.
 - 🔗 dev.to: https://dev.to/markusschmidt/how-to-automate-international-price-adjustments-on-your-e-commerce-store-using-an-exchange-rate-api-c7
 - 🔗 Medium: https://medium.com/@muellerfranz1992/ending-phantom-margins-in-cross-border-ad-ops-a-playbook-for-trustworthy-roas-billing-49df5ded5702
 - 🔗 Notion: https://titanium-whistle-63c.notion.site/Month-End-Without-the-Spreadsheet-Circus-Automating-Multi-Currency-Close-for-a-Mid-Market-Accountin-29537a3a625880ec9a9be3b8d40d24b5?source=copy_link
+- 💬 StackOverflow: https://stackoverflow.com/questions/77358462/exchange-rates-io-api-call-through-html-and-script/79798692#79798692
+- 💬 Quora: https://www.quora.com/Is-there-a-free-exchange-rate-API/answer/Free-GeoIP
+- 💬 GuteFrage: https://www.gutefrage.net/frage/beste-exchange-rate-api-im-jahr-2025
+- 🧭 SaaSHub (alternatives listing): https://www.saashub.com/free-exchange-rate-api-alternatives
 
 ## 🤝 Contributing
 
